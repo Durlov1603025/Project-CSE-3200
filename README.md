@@ -26,8 +26,8 @@ After making the connection between the central bluetooth module and Arduino, I 
 
 Then the other Bluetooth module is connected to another Arduino. The Bluetooth module is connected to the Arduino as follows: 
 	     1. The VCC of the Bluetooth module is connected to Arduino 5v.
-       2. Ground is given to ground of Arduino
-	     3. The RXD is connected to the TX of Arduino
+             2. Ground is given to ground of Arduino.
+	     3. The RXD is connected to the TX of Arduino.
 After making the connection between the other bluetooth module and Arduino, I wrote some codes that are included in "other_BluetoothModlue.ino"       
 
 
