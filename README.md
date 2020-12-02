@@ -2,7 +2,7 @@
 This repository includes the codes of my project CSE-3200. My project was on "Controlling Access using RFID & Arduino; Theft detection using Bluetooth Module & Arduino"
 
 In this rfid system I have used arduino uno, rfid reader and rfid tags. The tags attached to the laptop and kept to students to be identified. In this project we have a key-ring tag and an electromagnetic card tag. Each tag has his own identification. The students use a card tag and the keychain tag is attached to laptop. I connected the rfid reader to the Arduino. The RFID reader is connected to the Arduino as follows: 
-             1.	RFID 3.3v is connected to Arduino 3.3v\n
+             1.	RFID 3.3v is connected to Arduino 3.3v
 	     2. RST pin is connected to digital 9
 	     3. SDA pin is connected to digital 10
              4.	MOSI pin is connected to digital 11
@@ -26,7 +26,7 @@ After making the connection between the central bluetooth module and Arduino, I 
 
 Then the other Bluetooth module is connected to another Arduino. The Bluetooth module is connected to the Arduino as follows: 
 	     1. The VCC of the Bluetooth module is connected to Arduino 5v.
-             2. Ground is given to ground of Arduino.\n
+             2. Ground is given to ground of Arduino.
 	     3. The RXD is connected to the TX of Arduino.
 After making the connection between the other bluetooth module and Arduino, I wrote some codes that are included in "other_BluetoothModlue.ino"       
 
