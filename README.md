@@ -31,3 +31,4 @@ Then the other Bluetooth module is connected to another Arduino. The Bluetooth m
 After making the connection between the other bluetooth module and Arduino, I wrote some codes that are included in "other_BluetoothModlue.ino"       
 
 
+Here the Goggle Drive link: https://drive.google.com/drive/u/0/folders/1NAJoiFFjmJARCj9svkKSc49foMcmKuKS  which contains some photos & videos to clarify the working of this solution
