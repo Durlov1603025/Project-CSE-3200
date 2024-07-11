@@ -1,5 +1,5 @@
-# Project-CSE-3200
-This repository includes the codes of my project CSE-3200. My project was on "Controlling Access using RFID & Arduino; Theft detection using Bluetooth Module & Arduino"
+# Theft detection using Arduino
+This repository includes the codes of my project on "Controlling Access using RFID & Arduino; Theft detection using Bluetooth Module & Arduino"
 
 In this rfid system I have used arduino uno, rfid reader and rfid tags. The tags attached to the laptop and kept to students to be identified. In this project we have a key-ring tag and an electromagnetic card tag. Each tag has his own identification. The students use a card tag and the keychain tag is attached to laptop. I connected the rfid reader to the Arduino. The RFID reader is connected to the Arduino as follows: 
              1.	RFID 3.3v is connected to Arduino 3.3v
